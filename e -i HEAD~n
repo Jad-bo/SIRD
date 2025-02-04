@@ -1,0 +1,23 @@
+[33mcommit 16f06b5b7c3750b79b261f1290261b5ffc210f19[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: unknown <j_bousfiha@hetic.eu>
+Date:   Sun Feb 2 23:14:04 2025 +0100
+
+    Add compared scenarios with and without intervention
+
+[33mcommit af07f6248f722d5c15dd9ca48c17ab27da29b1f2[m
+Author: unknown <j_bousfiha@hetic.eu>
+Date:   Wed Jan 29 23:53:12 2025 +0100
+
+    feat: add SIRD dataset for model simulation and analysis
+
+[33mcommit 08478053d9646ec3bf0e022ee2e5dca323baef4b[m
+Author: unknown <j_bousfiha@hetic.eu>
+Date:   Wed Jan 29 23:50:48 2025 +0100
+
+    Implement SIRD model simulation and cost function analysis
+
+[33mcommit 3ae18206f620b5d7f0983ae50f12475763b38288[m
+Author: Jad-bo <j_bousfiha@hetic.eu>
+Date:   Wed Jan 29 23:42:50 2025 +0100
+
+    Initial commit
